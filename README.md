@@ -22,7 +22,7 @@
   </a>
 </p>
 
-## 💼 Languages and Tools:
+## 💼 Technologies & Tools:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SpringBoot](https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&color=gray&logo=SpringBoot&logoColor=green&label=)
