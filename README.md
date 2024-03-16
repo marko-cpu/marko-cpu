@@ -22,4 +22,11 @@
 
 ## 💼 Technologies & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,spring,mysql,react,git,bash,linux,postman,vscode,idea" />
+  </a>
+</p>
+
+
