@@ -4,10 +4,6 @@
 </div>
 <h3 align="center">Software Engineer 💻 | Student 👨‍🎓</h3>
 
-- 🤝 I am looking for an **internship or job.**
-
-- 🌱 I’m currently learning **Java and Spring Boot**
-
 - 📫 How to reach me **markojh13@gmail.com**
 
  ## 📫 Connect with me
