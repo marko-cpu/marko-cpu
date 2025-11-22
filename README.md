@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h3 align="center">Software Engineer 💻 | Student 👨‍🎓</h3>
+<h3 align="center">Software Engineer 💻 </h3>
 
 - 📫 How to reach me **markojh13@gmail.com**
 
